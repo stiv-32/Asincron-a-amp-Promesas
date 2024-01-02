@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Estudiar Js",
+        "priority": "alta"
+    },
+    {
+        "title": "Estudiar CSS",
+        "priority": "alta"
+    },
+    {
+        "title": "Estudiar OOP",
+        "priority": "media"
+    },
+    {
+        "title": "Estudiar IA",
+        "priority": "baja"
+    }
+]
